@@ -388,3 +388,9 @@ sm {
   font-weight: 600;
   margin: 15px 0;
 }
+
+#icon-img{
+   border-radius: 50%;  /* 角丸半径を50%にする(=円形にする) */
+    width:  32px;       /* ※縦横を同値に */
+    height: 32px;       /* ※縦横を同値に */
+}
